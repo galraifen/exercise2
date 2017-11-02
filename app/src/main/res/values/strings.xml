@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">EX2</string>
     <string name="main_intro">This activity demonstrates the:\n Activity life-cycle callback methods.\nViews referencing\nand on-click handler</string>
+    <string name="name">Name:</string>
+    <string name="hint">Enter here your first name </string>
+    <string name="button">Try me!</string>
 </resources>
