@@ -4,4 +4,17 @@
     <string name="name">Name:</string>
     <string name="hint">Enter here your first name </string>
     <string name="button">Try me!</string>
+    <string name="Main_tag">"EX2.MAIN_ACTIVITY"</string>
+    <string name="onCEvent">onCreateEvent</string>
+    <string name="welcome">Welcome user!</string>
+    <string name="onSEvent">onStartEvent</string>
+    <string name="onREvent">onResumeEvent</string>
+    <string name="onPEvent">onPauseEvent</string>
+    <string name="onStopEvent">onStopEvent</string>
+    <string name="onDEvent">onDestroyEvent</string>
+    <string name="userAlert">You must fill the name field before clicking this button</string>
+    <string name="ansPart1">: The button was clicked </string>
+    <string name="ansPart2"> times </string>
+    <string name="onSInstance">onSaveInstanceState</string>
+    <string name="onRInstance">onRestoreInstanceState</string>
 </resources>
